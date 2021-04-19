@@ -5,8 +5,7 @@ Creado por Yenot-Hack & LesliGrc
 <img src="img/foto.png"/>
 
 
-
-## Instalación->
+## Instalación
 
 Clonamos el repositorio:
 ```
@@ -20,7 +19,7 @@ $ 𝚌𝚍 𝚝𝚘𝚘𝚕𝚔𝚒𝚝-𝚕𝚒𝚗𝚞𝚡
 
 Damos permiso de instalación:
 ```
-$ chmod +x toolkit.sh
+$ 𝚌𝚑𝚖𝚘𝚍 +𝚡 𝚝𝚘𝚘𝚕𝚔𝚒𝚝.𝚜𝚑
 ```
 
 Ejecutamos:
