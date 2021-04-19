@@ -28,11 +28,11 @@ Ejecutamos:
 $ ./𝚝𝚘𝚘𝚕𝚔𝚒𝚝.𝚜𝚑
 ```
 
-###Dpendencias
--`curl`
--`xterm`
--`nmap`
--`monitores de red`
--`monitores de recursos`
+### Dpendencias
+- `curl`
+- `xterm`
+- `nmap`
+- `monitores de red`
+- `monitores de recursos`
 
->Todos los paquetes necesarios,son instalados automaticamente.
+> Todos los paquetes necesarios,son instalados automaticamente.
