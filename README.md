@@ -2,7 +2,7 @@
 Script bash con multiples herramientas para facilitar el uso de Linux OS, desde comandos, hasta anonimato.
 Creado por Yenot-Hack & LesliGrc
 
-<img src=".img/foto.png"/>
+<img src="img/foto.png"/>
 
 
 
