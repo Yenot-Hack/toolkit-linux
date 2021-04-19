@@ -6,7 +6,7 @@ Creado por Yenot-Hack & LesliGrc
 
 
 
-##Instalación->
+## Instalación->
 
 Clonamos el repositorio:
 ```
